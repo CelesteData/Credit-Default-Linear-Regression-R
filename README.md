@@ -30,4 +30,4 @@ The Multiple Linear Regression model provided a significantly better fit for the
 
 ## 📁 Repository Files
 * `regression_models_credit_default.R`: The complete, fully commented R script containing all data cleaning, model building, and diagnostic analysis.
-* `credit_default.csv`: The subset of the UCI dataset used for this analysis. *(Note: Add the file or a link to the UCI repository here)*
+* `credit_default.csv`: The subset of the UCI dataset used for this analysis. 
